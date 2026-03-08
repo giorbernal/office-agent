@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     python3-pip \
     python3.10-dev \
     python3.10-venv \
+    python3-argcomplete \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
@@ -18,11 +19,10 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN ln -s /usr/bin/python3.10 /usr/bin/python
 
 # Instalar poetry
-#RUN pipx ensurepath \
-#    && echo 'eval "$(register-python-argcomplete pipx)"' >> ~/.bashrc \
-#    && source ~/.bashrc \
-#    && pipx install poetry
+ENV PATH="/root/.local/bin:${PATH}"
+RUN pipx install poetry
 
+# Instalar opencode
 RUN curl -fsSL https://opencode.ai/install | bash
 
 WORKDIR /workspace
