@@ -2,7 +2,7 @@
 
 This is a base project to show how to start to use agentic AI features in office work.
 
-In this video you can see how to use the example attached with an example:
+In this video you can see a use-case with the example attached:
 
 [![](https://img.youtube.com/vi/Df-xS6vS_MY/maxresdefault.jpg)](https://youtu.be/Df-xS6vS_MY)
 
