@@ -18,9 +18,10 @@ cd docker
 build.sh
 ```
 
-
 * Run the supplied docker container
 ```bash
 docker/run.sh
 ```
+
+* open in your browser: http://localhost:4096
 
