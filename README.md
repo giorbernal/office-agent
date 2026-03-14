@@ -38,5 +38,5 @@ docker/run.sh
 ## Resouces
 
 * For further information about [agents](https://opencode.ai/docs/es/agents/) and [skills](https://opencode.ai/docs/es/skills/) check opencode documentation.
-* You can try these [skills](https://github.com/anthropics/skills/tree/main/skills).
+* You can try [more kills here](https://github.com/anthropics/skills/tree/main/skills).
 * Regarding LLM Providers, note that default models are unlikely to perform optimally. Using a premium OpenAI, Anthropic or Google account is recomnended. You can also consider to pay as you go by an [OpenRouter](https://openrouter.ai/) account.
