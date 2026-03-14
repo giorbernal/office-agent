@@ -6,7 +6,8 @@ In the project example you could see:
 
 * How to configure a specific "agent" and its "skills".
 * How to execute a process of renaming a bunch of .pdf files by using information contained inside each file.
-* How to extract key information of a bunch of .pdf files to set a .csv that could be easily imported in a .xls file for example
+* How to extract key information of a bunch of .pdf files to set a .csv that could be easily imported in a .xlsx file, for example.
+* How to analyze this .csv, visualize the data, and generate a presentation for reporting.
 
 In this video you can see this use-case:
 
