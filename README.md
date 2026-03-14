@@ -10,7 +10,7 @@ In the project example you could see:
 
 In this video you can see this use-case:
 
-[![](https://img.youtube.com/vi/Df-xS6vS_MY/maxresdefault.jpg)](https://youtu.be/Df-xS6vS_MY)
+[![](https://img.youtube.com/vi/WDKLL1v-jNk/maxresdefault.jpg)](https://youtu.be/WDKLL1v-jNk)
 
 Enjoy!.
 
