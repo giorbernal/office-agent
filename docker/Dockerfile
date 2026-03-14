@@ -6,7 +6,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Actualiza el sistema e instala Python 3.10 y pip
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    curl vim make pipx \
+    curl vim make pipx git gh npm \
     python3.10 \
     python3-pip \
     python3.10-dev \
